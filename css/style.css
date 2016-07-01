@@ -1,0 +1,16 @@
+body p,body h2, body h5{ text-align:center; }
+body .navbar-right li a{ font-size:13px; }
+body { font-size:14px; }
+body h2{ font-size:40px; }
+#intro{ /*  background-color:#292929; */ /*  color:#fff; */ }
+#about{ /*  background:yellow; */ }
+body #about .skills .skill-line,body #experience .experience-line,body #education .education-line{
+width:70% !important;
+      border-top: 1px solid #2c3e50 !important;
+}
+body .skills .row h3 { text-align:center; margin-left: 52px; }
+body .skills .row ul li { padding:10px;text-align:center; }
+body .skills .row .third h3 { margin-left: 25px; }
+body .skills .row .first ul li,body .skills .row .second ul li,body .skills .row .third ul li { font-size:14px;list-style:none; }
+.scroll-down{ cursor:pointer;  } 
+
